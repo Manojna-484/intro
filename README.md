@@ -1,1 +1,2 @@
 # intro
+I’m a Computer Science graduate with a proficient command in Java and Python. I have worked on Heart Attack Prediction System , Complaint Management Website and solving real-world problems with data-centric approaches. I’m enthusiastic about writing efficient, maintainable code and enjoy working on scalable software solutions. Eager to grow within dynamic tech teams and contribute to impactful projects.
